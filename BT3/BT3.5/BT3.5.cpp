@@ -46,7 +46,6 @@ int main(){
     for ( int i = 0 ; i < 3 ; i++ ){
         fin >> ds[i];
         fout << ds[i] << endl;
-        cout << ds[i] << endl;
     }
     fin.close();
     fout.close();
